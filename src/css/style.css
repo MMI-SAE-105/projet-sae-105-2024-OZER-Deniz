@@ -1,1 +1,6 @@
-@import
+@import "/src/css/components/basic.css";
+@import "/src/css/components/footer.css";
+@import "/src/css/components/header.css";
+@import "/src/css/components/paralax.css";
+
+@import "../css/vendors/normalize.css";
