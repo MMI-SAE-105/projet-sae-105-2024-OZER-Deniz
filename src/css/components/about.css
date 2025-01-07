@@ -8,6 +8,7 @@
     max-width: 600px;
     justify-content: center;
     align-items: center;
+    margin-left: -30px;
 }
 
 .about__image img {
@@ -49,15 +50,17 @@
     font-size: 40px;
     margin-left: -20px;
     margin-right: -25px;
-    line-height: 65px;
+    line-height: 70px;
     background-color: rgba(255, 255, 255, 0.2);
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 50px;
+    padding-right: 110px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     text-shadow: 50px 50px 50px 50px black;
 }
 
-.goldbar {
-    width: 108%;
+/* .goldbar {
+    width: 795px;
     height: 50px;
     background-color: goldenrod;
     top: 2650px;
@@ -69,3 +72,4 @@
     text-shadow: 50px 50px 50px 50px black;
 
 }
+*/
