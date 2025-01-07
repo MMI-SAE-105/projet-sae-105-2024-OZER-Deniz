@@ -15,32 +15,45 @@
     <link rel="manifest" href="../favicon/web-app-manifest-192x192.png" />
 </head>
 
-<body>
+<body class="html no-scroll">
 
     <div class="paralaxe"><img src="/assets/img/hero.avif" alt=""></div>
 
     <div class="content">
         <header class="header">
             <div class="header__logo">
-                <img src="../assets/img/logo.avif" alt="Logo Sonic Relics">
+                <a href="indexfr.html"><img src="../assets/img/logo.avif" alt="Logo Sonic Relics"></a>
+            </div>
+            <div class="menu-btn">
+                ☰
+            </div>
+        </header>
+
+        <div class="overlay-menu">
+            <div class="menu-header">
+                <img src="/assets/img/logo.avif" alt="Logo">
+                <span class="close-btn">&times;</span>
             </div>
             <nav class="header__nav">
-                <ul>
-                    <li><a href="#">Notre Objet</a></li>
-                    <li><a href="#">Le Film</a></li>
-                    <li><a href="#">Le Livre</a></li>
-                    <li><a href="#">La musique</a></li>
-                    <li><a href="#">Le Réalisateur</a></li>
-                    <li><a href="#">Contact/Inscription</a></li>
-                    <li><a href="#">Autres Projets</a></li>
+                <ul class="ul">
+                    <li class="li"><a href="#">Notre Objet</a></li>
+                    <li class="li"><a href="#">Le Film</a></li>
+                    <li class="li"><a href="#">Le Livre</a></li>
+                    <li class="li"><a href="#">La musique</a></li>
+                    <li class="li"><a href="#">Le Réalisateur</a></li>
+                    <li class="li"><a href="#">Contact/Inscription</a></li>
+                    <li class="li"><a href="#">Autres Projets</a></li>
                 </ul>
             </nav>
-        </header>
+        </div>
+
+        <script src="/src/js/menu.js"></script>
 
         <section class="hero">
             <div>
                 <h1 class="hero__title">Sonic Relics</h1>
-                <p class="hero__subtitle">Explorez les vestiges sonores du présent, redécouverts dans un futur lointain
+                <p class="hero__subtitle">Explorez les vestiges sonores du présent, redécouverts dans un futur
+                    lointain
                 </p>
             </div>
             <div class="hero__decor">
@@ -54,9 +67,12 @@
             </div>
             <div class="about__content">
                 <h2>À propos de Sonic Relics</h2>
-                <p>Sonic Relics est une exploration immersive de l’évolution des technologies de lecture musicale, du
-                    phonographe au service de streaming modernes comme Spotify et Deezer. À travers cette plateforme,
-                    plongez dans les époques qui ont façonné notre manière d’écouter la musique, et découvrez comment
+                <p>Sonic Relics est une exploration immersive de l’évolution des technologies de lecture musicale,
+                    du
+                    phonographe au service de streaming modernes comme Spotify et Deezer. À travers cette
+                    plateforme,
+                    plongez dans les époques qui ont façonné notre manière d’écouter la musique, et découvrez
+                    comment
                     les
                     innovations d’hier préfigurent les technologies sonores de demain.</p>
             </div>
@@ -66,7 +82,8 @@
             <h2>Fonctionnalités phares de Sonic Relics</h2>
             <ul>
                 <li>Chronologie interactive : Explorez les étapes clés de l'évolution des lecteurs de musique</li>
-                <li>Exploration des œuvres : Découvrez des œuvres et projets liés à cette évolution hallucinante</li>
+                <li>Exploration des œuvres : Découvrez des œuvres et projets liés à cette évolution hallucinante
+                </li>
                 <li>Technologies du futur : Découvrez les spéculations et innovations sonores à venir</li>
             </ul>
         </section>
@@ -76,7 +93,8 @@
             <div class="recommended__item">
                 <img src="../assets/img/article1.avif" alt="Phonographe à l'IA">
                 <h3>Du phonographe à l'IA : L'évolution des lecteurs de musique à travers les âges</h3>
-                <p>Découvrez comment notre analyse s'étend des premiers sons enregistrés au monde numérique piloté par
+                <p>Découvrez comment notre analyse s'étend des premiers sons enregistrés au monde numérique piloté
+                    par
                     l'IA...</p>
                 <a href="#" class="button">Lire dès maintenant</a>
             </div>
