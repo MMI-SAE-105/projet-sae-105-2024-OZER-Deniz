@@ -24,10 +24,5 @@
 
 .hero__decor {
     margin-left: -18px;
-}
-
-.about__image {
-    border: 50px goldenrod;
-    border-radius: 10px;
-    padding: 5px;
+    width: 100%;
 }

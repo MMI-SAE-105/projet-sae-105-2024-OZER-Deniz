@@ -1,0 +1,71 @@
+.about__image {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    flex: 1;
+    display: inline-block;
+    width: 100%;
+    max-width: 600px;
+    justify-content: center;
+    align-items: center;
+}
+
+.about__image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0;
+    padding: 0;
+    padding-top: 15px;
+    border: 1px solid goldenrod;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+    margin-left: 80px;
+}
+
+.about__image .corner {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.about__image .corner-top-left {
+    top: 15px;
+    left: 85px;
+    background-image: url('../../../assets/img/coin-hg.avif');
+}
+
+.about__image .corner-bottom-right {
+    bottom: 60px;
+    right: -80px;
+    background-image: url('../../../assets/img/coin-bd.avif');
+}
+
+.about__content {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    margin-left: -20px;
+    margin-right: -25px;
+    line-height: 65px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding-left: 30px;
+    padding-right: 30px;
+    text-shadow: 50px 50px 50px 50px black;
+}
+
+.goldbar {
+    width: 108%;
+    height: 50px;
+    background-color: goldenrod;
+    top: 2650px;
+    position: absolute;
+    z-index: -1;
+    transform: rotate(160deg);
+    margin-left: - 60px;
+    margin-left: -50px;
+    text-shadow: 50px 50px 50px 50px black;
+
+}
