@@ -11,7 +11,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgb(255, 255, 255);
+    background: rgb(218, 165, 32);
     transform: translateY(-100%);
     transition: transform 0.5s ease;
     z-index: 10;
@@ -27,19 +27,23 @@
 
 
 .menu-header {
+    margin-top: -20px;
+    margin-left: -20px;
     position: absolute;
     top: 20px;
     left: 20px;
-    width: 90%;
+    width: 100%;
     display: flex;
+    background-color: rgb(133, 101, 20);
     justify-content: space-between;
     align-items: center;
 }
 
 .close-btn {
-    font-size: 30px;
+    padding-right: 50px;
+    font-size: 80px;
     cursor: pointer;
-    color: #333;
+    color: goldenrod;
     transition: color 0.3s ease;
 }
 
@@ -49,20 +53,19 @@
 
 .overlay-menu .ul {
     list-style: none;
-    text-align: center;
-    margin: 0;
-    padding: 0;
+    margin-top: -20px;
 }
 
 .overlay-menu .li {
-    margin-bottom: 20px;
+    margin-bottom: 50px;
+    margin-top: 40px;
 }
 
 .overlay-menu .li a {
     text-decoration: none;
-    font-size: 24px;
+    font-size: 75px;
     font-weight: bold;
-    color: #333;
+    color: #ffffff;
     transition: color 0.3s ease;
 }
 

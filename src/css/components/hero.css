@@ -1,0 +1,33 @@
+.hero__title {
+    display: flex;
+    position: relative;
+    text-align: center;
+    margin-top: 450px;
+    margin-left: px;
+    max-width: 800px;
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 1.6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+    margin-bottom: 60px;
+    padding-right: 0;
+    margin-left: 70px;
+}
+
+.hero__subtitle {
+    text-align: center;
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.hero__decor {
+    margin-left: -18px;
+}
+
+.about__image {
+    border: 50px goldenrod;
+    border-radius: 10px;
+    padding: 5px;
+}
