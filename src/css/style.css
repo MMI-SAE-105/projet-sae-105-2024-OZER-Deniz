@@ -10,5 +10,7 @@
 @import "/src/css/components/about.css";
 @import "/src/css/components/features.css";
 @import "/src/css/components/recommended.css";
+@import "/src/css/components/button.css";
+@import "/src/css/components/advantages.css";
 
 @import "src/css/vendors/normalize.css";

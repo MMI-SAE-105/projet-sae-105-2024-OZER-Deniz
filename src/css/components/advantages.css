@@ -1,0 +1,42 @@
+.advantages {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-size: 40px;
+    margin-left: -20px;
+    margin-right: -25px;
+    line-height: 65px;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding-left: 30px;
+    padding-right: 30px;
+    text-shadow: 50px 50px 50px 50px black;
+}
+
+.advantages__title {
+    padding-top: 60px;
+    margin-bottom: 50px;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.advantages__content {
+    font-size: 35px;
+    padding-left: 30px;
+}
+
+.advantages__content1 {
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
+.advantages__content2 {
+    margin-bottom: 60px;
+}
+
+.advantages__content3 {
+    padding-bottom: 60px;
+}
+
+.advantages__content4 {
+    padding-bottom: 80px;
+}
