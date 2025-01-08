@@ -20,8 +20,10 @@
 }
 
 .advantages__content {
+    padding-top: 1px;
     font-size: 35px;
     padding-left: 30px;
+    padding-bottom: 40px;
 }
 
 .advantages__content1 {

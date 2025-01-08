@@ -16,5 +16,6 @@
 @import "/src/css/components/article.css";
 @import "/src/css/components/ensemble-article.css";
 @import "/src/css/components/barre-noire.css";
+@import "/src/css/components/formulaire.css";
 
 @import "src/css/vendors/normalize.css";
