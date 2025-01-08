@@ -1,5 +1,5 @@
 .barre-noire {
-    width: 1050px;
+    width: 143%;
     height: 20px;
     background-color: rgb(0, 0, 0);
     margin-left: -50px;
@@ -7,7 +7,7 @@
     border-top: 6px solid goldenrod;
     border-bottom: 6px solid goldenrod;
     margin-top: 60px;
-    margin-bottom: 60px;
+    margin-bottom: 100px;
 }
 
 .frise__title {
