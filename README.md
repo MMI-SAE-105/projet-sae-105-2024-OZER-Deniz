@@ -3,8 +3,8 @@
 
 À compléter :
 
-- NOM :
-- PRÉNOM :
-- GROUPE :
-- URL du site :
-- URL FIGMA :
+- NOM : Ozer
+- PRÉNOM : Deniz
+- GROUPE : C1
+- URL du site : https://projet-sae-105-2024-ozer-deniz.netlify.app/
+- URL FIGMA : https://www.figma.com/design/B4Dg84ePImNZ8iYebAiSFK/Deniz-Ozer_Maquette-Projet-individuel_23-oct-2024?node-id=0-1&p=f&t=H4euF9dann19TyZL-0
