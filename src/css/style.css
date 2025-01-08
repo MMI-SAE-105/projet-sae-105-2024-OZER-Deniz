@@ -12,5 +12,9 @@
 @import "/src/css/components/recommended.css";
 @import "/src/css/components/button.css";
 @import "/src/css/components/advantages.css";
+@import "/src/css/components/article-hero.css";
+@import "/src/css/components/article.css";
+@import "/src/css/components/ensemble-article.css";
+@import "/src/css/components/barre-noire.css";
 
 @import "src/css/vendors/normalize.css";
