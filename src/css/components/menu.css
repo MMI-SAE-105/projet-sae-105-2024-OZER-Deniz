@@ -40,13 +40,12 @@
 }
 
 .menu-header img {
-    height: 180px;
-    width: 180px;
+    width: 20%;
 }
 
 .close-btn {
     padding-right: 50px;
-    font-size: 80px;
+    font-size: 400%;
     cursor: pointer;
     color: goldenrod;
     transition: color 0.3s ease;
@@ -58,17 +57,18 @@
 
 .overlay-menu .ul {
     list-style: none;
-    margin-top: -20px;
+    margin-top: 10%;
+    margin-top: -75%;
 }
 
 .overlay-menu .li {
-    margin-bottom: 50px;
-    margin-top: 40px;
+    margin-bottom: 10%;
+    margin-top: 10%;
 }
 
 .overlay-menu .li a {
     text-decoration: none;
-    font-size: 75px;
+    font-size: 200%;
     font-weight: bold;
     color: #ffffff;
     transition: color 0.3s ease;

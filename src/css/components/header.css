@@ -2,7 +2,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 30%;
+    width: 97%;
     height: 8%;
     background-color: rgba(0, 0, 0, 0.8);
     display: flex;
@@ -15,6 +15,7 @@
 
 .header img {
     width: 60%;
+    margin-left: -14%;
 }
 
 .header .menu-btn {

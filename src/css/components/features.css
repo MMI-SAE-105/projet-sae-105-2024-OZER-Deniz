@@ -1,13 +1,13 @@
 .features {
     margin-top: 10px;
     margin-bottom: 40px;
-    font-size: 40px;
+    font-size: 160%;
     margin-left: -20px;
-    margin-right: -25px;
-    line-height: 65px;
+    margin-right: -20px;
+    line-height: 140%;
     background-color: rgba(255, 255, 255, 0.2);
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 5%;
+    padding-right: 5%;
     text-shadow: 50px 50px 50px 50px black;
 }
 
@@ -20,8 +20,10 @@
 }
 
 .features__content {
-    font-size: 35px;
-    padding-left: 30px;
+    font-size: 90%;
+    padding-left: 10%;
+    padding-left: -10%;
+    margin-left: -2%;
 }
 
 .features__content1 {

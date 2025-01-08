@@ -1,7 +1,7 @@
 .advantages {
     margin-top: 10px;
-    margin-bottom: 40px;
-    font-size: 40px;
+    margin-bottom: 5%;
+    font-size: 200%;
     margin-left: -20px;
     margin-right: -25px;
     line-height: 65px;
@@ -12,22 +12,21 @@
 }
 
 .advantages__title {
-    padding-top: 60px;
-    margin-bottom: 50px;
+    padding-top: 10%;
     text-align: center;
     padding-left: 15px;
     padding-right: 15px;
 }
 
 .advantages__content {
-    padding-top: 1px;
-    font-size: 35px;
+    font-size: 60%;
     padding-left: 30px;
+    line-height: 110%;
     padding-bottom: 40px;
 }
 
 .advantages__content1 {
-    margin-top: 100px;
+    margin-top: 30%;
     margin-bottom: 60px;
 }
 
@@ -40,5 +39,5 @@
 }
 
 .advantages__content4 {
-    padding-bottom: 80px;
+    padding-bottom: 2%;
 }
