@@ -6,6 +6,7 @@
 
 .fr {
     padding-left: 30%;
+    padding-right: 5%;
 }
 
 
@@ -13,7 +14,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 23%;
+    width: 35%;
     height: 5%;
     background-color: rgba(0, 0, 0, 0.8);
     display: flex;
@@ -25,11 +26,11 @@
 }
 
 .header img {
-    width: 60%;
+    width: 80%;
 }
 
 .header .menu-btn {
-    font-size: 360%;
+    font-size: 300%;
     cursor: pointer;
     padding-right: 2%;
     padding-bottom: 1%;
